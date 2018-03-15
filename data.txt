@@ -1,0 +1,3 @@
+Name: Nicholas Kreps
+Age: 28
+Favorite Color: Green
